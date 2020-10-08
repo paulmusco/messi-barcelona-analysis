@@ -131,3 +131,5 @@ dmypy.json
 # Large data files
 .json
 .csv
+/data/original-data/
+/data/cleaned-data/
