@@ -1,4 +1,5 @@
 # messi-barcelona-analysis
+When Lionel Messi recently signalled his intention to leave Barcelona, many football fans found themselves in a state of shock and sorrow. It didn’t just feel like the end of AN era, but the end of THE era. The threat of his departure, and the approaching final act of his career, is what prompted me to begin the enormous work of analysing his legacy.
 
 ## Project Description 
 Analyse FC Barcelona during the Lionel Messi era.
