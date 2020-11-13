@@ -133,3 +133,8 @@ dmypy.json
 .csv
 /data/original-data/
 /data/cleaned-data/
+
+# Artwork
+/images/
+barcelona_font.docx
+barcelona_font.pdf
